@@ -1,1 +1,1 @@
-# Created My own Portfolio using pre-made template to understand and template and how to edit it
+# Created My Portfolio using a pre-made template to understand and edit the template
